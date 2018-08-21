@@ -50,8 +50,8 @@ https://www.wikidata.org
 
 ##### Passenger Data (Public transportation)
 
-- SBB: [Passagierfrequenz](https://data.sbb.ch/explore/dataset/passagierfrequenz/)
-- VBZ: [Fahrgastzahlen](https://data.stadt-zuerich.ch/dataset/vbz-fahrgastzahlen-ogd) (Stadt Zürich).
+- SBB: [Passagierfrequenz](https://data.sbb.ch/explore/dataset/passagierfrequenz/) (City of Zurich)
+- VBZ: [Fahrgastzahlen](https://data.stadt-zuerich.ch/dataset/vbz-fahrgastzahlen-ogd) (City of Zurich).
 
 
 #### Landing Pages for Public transportation
